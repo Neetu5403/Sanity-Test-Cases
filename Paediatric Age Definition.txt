@@ -1,0 +1,37 @@
+==SETUP START==
+ENVIRONMENT, https://chat-pre-prod.vengage.ai
+CENTER_ID, 1
+==SETUP END==
+
+==CONVERSATION START==
+AI >>> Thanks for calling Specialist Medical Imaging Parramatta. Are you looking to book a new appointment?
+User >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+User >>> us abdomen
+AI >>> You have requested for [us abdomen]. Is that correct?
+User >>> yes
+AI >>> The requested service is available in Grose Street, Westfield and Toongabbie. Do you have a preference for any particular center?
+User >>> grose street
+AI >>> The requested scan requires 4 hours of fasting. Will that be okay with the patient?
+User >>> ok
+AI >>> Is the scan for Left part, or, Right part, or Both?
+User >>> both
+AI >>> Is the patient a child below 10 years of Age?
+User >>> no
+AI >>> This scan is not covered under Medicare. It may cost you around $300 or sometimes even more. Are you OK to proceed?
+User >>> ok
+AI >>> The next available slot at our grose street clinic is on Monday at 08:00 AM. Are you ok to proceed or do you have another preference?
+User >>> ok
+AI >>> To confirm, the selected appointment slot is during business hours and may cost around $300. Shall I proceed with the booking?
+User >>> ok
+AI >>> Please spell out the first name of the Patient.
+User >>> lisa
+AI >>> Please spell out the last name of the Patient.
+User >>> john
+AI >>> What is the patient date of birth?
+User >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+User >>> yes
+AI >>> Your appointment for US Abdomen bilateral is confirmed for dated 26 May Monday at 08:00 AM. You will receive appointment details along with preparation instructions via SMS. Thanks for calling us.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
