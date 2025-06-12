@@ -1,0 +1,17 @@
+==SETUP START==
+ENVIRONMENT, https://chat-pre-prod.vengage.ai
+CENTER_ID, 1
+==SETUP END==
+
+==CONVERSATION START==
+AI >>> Thanks for calling Specialist Medical Imaging, Grose Street. My name is Olivia. It seems you have called us before but the call did not complete. If you like to talk to our automated system, please press 1. Else, please press 2 to connect with an operator.
+User >>> 1
+AI >>> Thanks for your selection. Do you want to book a new appointment?
+User >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+User >>> nt scan
+AI >>> You have requested for [nt scan]. Is that correct?
+User >>> yes
+AI >>> This service is currently not supported at the center.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
