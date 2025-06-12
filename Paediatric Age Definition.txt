@@ -1,8 +1,3 @@
-==SETUP START==
-ENVIRONMENT, https://chat-pre-prod.vengage.ai
-CENTER_ID, 1
-==SETUP END==
-
 ==CONVERSATION START==
 AI >>> Thanks for calling Specialist Medical Imaging Parramatta. Are you looking to book a new appointment?
 User >>> yes
