@@ -1,0 +1,11 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Sanity Imaging Bangalore. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> MRI head
+AI >>> You have requested for mri head. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[275,872]
+AI >>> This service is currently not supported at the center. Currently we are closed. Our team shall contact you during business hours.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
