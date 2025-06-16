@@ -1,0 +1,13 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> us dvt
+AI >>> You have requested for U S dvt . is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+~~CHECK-APPLIED-RULES:[281, 1026]
+AI >>> This service is not handled by AI, Please wait while I connect you to a representative. Please wait while I connect you to the operator.
+AI >>> FORWARD_CALL
+==CONVERSATION END==
