@@ -1,0 +1,11 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> us dvt
+AI >>> You have requested for U S dvt . is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[294, 1601]
+AI >>> This service is currently not supported at the center. Currently we are closed. Our team shall contact you during business hours. Currently we are closed. Our team shall contact you during business hours.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
