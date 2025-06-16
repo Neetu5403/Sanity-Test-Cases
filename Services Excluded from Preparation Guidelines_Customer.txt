@@ -1,0 +1,27 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> us shoulder
+AI >>> You have requested for U S shoulder . is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+AI >>> Is the scan for Left, or, Right or both?
+USER >>> both
+AI >>> The earliest available slot at our indore clinic is at 08:00 AM tomorrow. Are you ok to proceed or do you have another preference?
+USER >>> okay
+AI >>> Please spell out the first name of the Patient.
+USER >>> lisa
+AI >>> 
+AI >>> Please spell out the last name of the Patient.
+USER >>> john
+AI >>> 
+AI >>> What is the patient date of birth?
+USER >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[138, 476, 179, 14]
+AI >>> Your appointment for U S shoulder bilateral is confirmed for tomorrow at 08:00 AM . You will receive appointment details along with preparation instructions via SMS. Thanks for calling us.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
