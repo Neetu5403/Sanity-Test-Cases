@@ -1,0 +1,29 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Sanity Imaging Bangalore. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> ct chest
+AI >>> You have requested for c t chest . is that correct?
+USER >>> yes
+AI >>> The requested scan requires 2 hours of fasting. Will that be okay with the patient?
+USER >>> ok
+AI >>> Is the patient less than 16 years old? Please say Yes or No.
+USER >>> no
+AI >>> Have you been referred by G P or by specialist?
+USER >>> gp
+AI >>> This scan is not covered under Medicare. It will cost you $100. Are you OK to proceed?
+USER >>> ok
+AI >>> Please spell out the first name of the Patient.
+USER >>> lisa
+AI >>> 
+AI >>> Please spell out the last name of the Patient.
+USER >>> john
+AI >>> 
+AI >>> What is the patient date of birth?
+USER >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[622, 178, 57, 1401]
+AI >>> Appointments for this procedure are subject to doctor availability. Our staff shall contact you soon to confirm the booking.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
