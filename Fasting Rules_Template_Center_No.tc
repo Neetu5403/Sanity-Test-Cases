@@ -9,7 +9,7 @@ AI >>> The requested service is available in Bangalore, Indore and Pune. Do you 
 USER >>> indore
 AI >>> The requested scan requires 6 hours of fasting. Will that be okay with the patient?
 USER >>> no
-~~CHECK-APPLIED-RULES:[663, 282]
+~~CHECK-APPLIED-RULES:[663]
 AI >>> Fasting is required for this scan. One of our operators shall call you shortly.
 AI >>> HANGUP_CALL
 ==CONVERSATION END==
