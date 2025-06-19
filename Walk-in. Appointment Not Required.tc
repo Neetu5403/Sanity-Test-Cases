@@ -1,0 +1,13 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> x-ray l spine
+AI >>> You have requested for x-ray L spine. Is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+~~CHECK-APPLIED-RULES:[61]
+AI >>> X-ray is a walk-in service and does not require any prior appointment. Please visit us during business hours and ensure you bring your doctor referral letter. Thank you.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
