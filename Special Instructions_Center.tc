@@ -1,0 +1,33 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> CT calcium score
+AI >>> You have requested for C T calcium score. Is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+AI >>> Is the patient less than 16 years old? Please say Yes or No.
+USER >>> no
+AI >>> Have you been referred by G P or by specialist?
+USER >>> gp
+AI >>> To ensure the patient health safety, we need to check few things. Please only answer as Yes OR No.. Does patient have diabetes?
+USER >>> no
+AI >>> Next question. Is patient allergic to Iodine Contrast?
+USER >>> no
+AI >>> Last question. Does patient have any renal kidney function problem?
+USER >>> no
+AI >>> The additional cost on Thursday is $200. Today there is only one slot available at our Indore clinic at 04:40 PM. Are you ok to proceed or do you have another preference?
+USER >>> okay
+AI >>> Please spell out the first name of the Patient.
+USER >>> lisa
+AI >>> Please spell out the last name of the Patient.
+USER >>> john
+AI >>> What is the patient date of birth?
+USER >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[68]
+AI >>> Your appointment for C T calcium score is confirmed for today at 04:40 PM. You will receive appointment details along with preparation instructions via SMS. Thanks for calling us.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
