@@ -1,0 +1,27 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> us abdomen
+AI >>> You have requested for U S abdomen. Is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+AI >>> The requested scan requires 4 hours of fasting. Will that be okay with the patient?
+USER >>> ok
+AI >>> Is the patient below 5 years old? Please say Yes or No.
+USER >>> no
+AI >>> The earliest available slot at our Indore clinic is tomorrow morning at 08:00 AM. Are you ok to proceed or do you have another preference?
+USER >>> okay
+AI >>> Please spell out the first name of the Patient.
+USER >>> lisa
+AI >>> Please spell out the last name of the Patient.
+USER >>> john
+AI >>> What is the patient date of birth?
+USER >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[1703]
+AI >>> Your appointment for U S abdomen is confirmed for tomorrow at 08:00 AM. You will receive appointment details along with preparation instructions via SMS. Thanks for calling us.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
