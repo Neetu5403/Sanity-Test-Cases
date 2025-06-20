@@ -1,0 +1,27 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> ct chest
+AI >>> You have requested for C T chest. Is that correct?
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+AI >>> The requested scan requires 2 hours of fasting. Will that be okay with the patient?
+USER >>> ok
+AI >>> Is the patient less than 16 years old? Please say Yes or No.
+USER >>> no
+AI >>> Have you been referred by G P or by specialist?
+USER >>> gp
+AI >>> Please spell out the first name of the Patient.
+USER >>> lisa
+AI >>> Please spell out the last name of the Patient.
+USER >>> john
+AI >>> What is the patient date of birth?
+USER >>> 21121989
+AI >>> The patient date of birth is 21 December, 1989. Is that correct?
+USER >>> yes
+~~CHECK-APPLIED-RULES:[130]
+AI >>> Thank you for providing the details. Appointments for this procedure are subject to doctor availability. Our staff will contact you soon to confirm the timing for the appointment. Thank you for calling. Have a nice day.
+AI >>> HANGUP_CALL
+==CONVERSATION END==
