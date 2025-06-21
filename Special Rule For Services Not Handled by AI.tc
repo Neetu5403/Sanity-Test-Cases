@@ -1,0 +1,19 @@
+==CONVERSATION START==
+AI >>> Thanks for calling Dummy-Sanity Imaging multicenter. Are you looking to book a new appointment?
+USER >>> yes
+AI >>> Could you please specify the scan requested by your doctor?
+USER >>> us morphology
+AI >>> You have requested for U S morphology scan. Is that correct?
+USER >>> yes
+AI >>> Please specify the number of weeks of pregnancy, on the day you are planning, for the scan.
+USER >>> 19 weeks
+AI >>> Sorry I did not understand. Please specify the number of weeks of pregnancy, on the day you are planning, for the scan.
+USER >>> 18 weeks
+AI >>> Would you like a female sonographer for your scan? This may limit your options.
+USER >>> yes
+AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
+USER >>> indore
+~~CHECK-APPLIED-RULES:[60]
+AI >>> This service is not handled by AI. Please wait while I connect you to a representative.
+AI >>> FORWARD_CALL
+==CONVERSATION END==
