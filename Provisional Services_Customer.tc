@@ -23,7 +23,7 @@ AI >>> What is the patient date of birth?
 USER >>> 21121989
 AI >>> The patient date of birth is 21 December, 1989. Is that correct?
 USER >>> yes
-~~CHECK-APPLIED-RULES:[622, 178, 57, 1401]
+~~CHECK-APPLIED-RULES:[1401]
 AI >>> Appointments for this procedure are subject to doctor availability. Our staff shall contact you soon to confirm the booking.
 AI >>> HANGUP_CALL
 ==CONVERSATION END==
