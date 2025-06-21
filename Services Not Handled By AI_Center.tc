@@ -7,7 +7,7 @@ AI >>> You have requested for U S dvt . is that correct?
 USER >>> yes
 AI >>> The requested service is available in Bangalore, Indore and Pune. Do you have a preference for any particular center?
 USER >>> indore
-~~CHECK-APPLIED-RULES:[281, 1026]
+~~CHECK-APPLIED-RULES:[1026]
 AI >>> This service is not handled by AI, Please wait while I connect you to a representative. Please wait while I connect you to the operator.
 AI >>> FORWARD_CALL
 ==CONVERSATION END==
